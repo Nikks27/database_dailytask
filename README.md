@@ -1,16 +1,13 @@
 # database_dailytask
 
-A new Flutter project.
+<h1 align="center"> 1.data</h1>
 
-## Getting Started
+<h1 align="left"></h1>
 
-This project is a starting point for a Flutter application.
+<div align ="center">
 
-A few resources to get you started if this is your first Flutter project:
+  <img src = "https://github.com/user-attachments/assets/a0f0db98-4558-4f59-93f6-0fe8c195ffde" height ="400" width = "3550">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+</div>
