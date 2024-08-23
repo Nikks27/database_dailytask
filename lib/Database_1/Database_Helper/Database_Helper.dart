@@ -46,7 +46,7 @@ class DbHelper {
     return _db;
   }
 
-  Future insertData()
+  Future insertData(double amount)
   async {
     Database? db = await database;
     String sql = '''INSERT INTO finance (amount,isIncome,category)
